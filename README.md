@@ -79,7 +79,7 @@ If you use a **local** MongoDB instead of Atlas, set
 Start the API:
 
 ```bash
-npm run dev      # development, restarts on file
+npm run dev     
 ```
 
 ### 2. Frontend
@@ -89,7 +89,7 @@ In a second terminal:
 ```bash
 cd frontend
 npm install
-npm run dev      # http://localhost:5173
+npm run dev   
 ```
 
 `frontend/.env` holds the API location. The default works with the setup above:
@@ -172,3 +172,11 @@ The database `leave_management` holds two collections.
 | `createdDate` | Date     | Defaults to the time of submission                       |
 
 ---
+
+**`Demo`**
+
+https://github.com/user-attachments/assets/8d1e4074-3c1c-4fd9-954e-968cd89cf41a
+
+
+
+
