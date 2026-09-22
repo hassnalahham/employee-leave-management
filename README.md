@@ -173,7 +173,7 @@ The database `leave_management` holds two collections.
 
 ---
 
-**`Demo`**
+## Demo
 
 https://github.com/user-attachments/assets/8d1e4074-3c1c-4fd9-954e-968cd89cf41a
 
